@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+:root
+{
+  --bg-main:#131722;
+  --light-bg:#24baef;
+  --main-color:#fff;
+}
+
+body {
+background-color: var(--bg-main);
+color: var(--main-color);
+font-family: 'Montserrat Alternates', sans-serif !important;
+}
+input
+{
+  background-color: transparent !important; 
+  color: #fff !important;
+}
+.loading
+{
+    font-size: 4rem !important;
+    
+}

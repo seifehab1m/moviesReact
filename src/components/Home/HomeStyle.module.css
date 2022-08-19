@@ -1,0 +1,21 @@
+.avatarImg
+{
+    height: 249px !important;
+    text-align: center;
+}
+img
+{
+    cursor: pointer ;
+}
+
+a ,a:hover
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+.loading
+{
+    font-size: 4rem !important;
+    
+}
